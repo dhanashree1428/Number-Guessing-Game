@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#head{
+    border: 2px solid black;
+    width: 250px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-color:lightblue;
+}
+.p{
+    margin-left: 20px;
+}
